@@ -9,9 +9,11 @@ This tool send massive txt sms to a victim device
 
 # Installation 
 
+JUST COPY AND PASTE THE COMMANDS IN YOUT TERMINAL WITHOUT $ sign
+
 $ pkg install git  
 
-$ cd osbomber 
+$ git clone https://github.com/Danish-1122/osbomber
 
 $ chmod +x osbomber
 
