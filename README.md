@@ -14,6 +14,8 @@ JUST COPY AND PASTE THE COMMANDS IN YOUT TERMINAL WITHOUT $ sign
 $ pkg install git  
 
 $ git clone https://github.com/Danish-1122/osbomber
+ 
+$ cd osbomber
 
 $ chmod +x osbomber
 
