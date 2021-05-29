@@ -16,6 +16,7 @@ $ cd osbomber
 $ chmod +x osbomber
 
 $ bash osbomber.sh
-# press ctr+c to stop the bomber dont directly exit form tool it is harmfull
 If some error occur then comment
+# press ctr+c to stop the bomber dont directly exit form tool it is harmfull
+
 # I am not responsible of missuse of this tool thankyou
